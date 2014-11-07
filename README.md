@@ -1,4 +1,4 @@
-quotes
+Quotes
 ======
 
 to track quotes
